@@ -7,7 +7,7 @@ about:
   head: b70261c
   archived: false
   latestVersion: v1.1.2
-  collectedAt: 2026-09-04T19:27:20Z
+  collectedAt: 2026-09-04T21:06:39Z
 timeline:
   created: 2020-09-11
   lastCommit: 2023-02-21
@@ -81,6 +81,29 @@ total:
   openIssue: 30
   commit: 322
 ---
+path: /home/runner/.x-repo/github.com/chriswalz/bit
+collectedAt: 2026-09-04T21:06:40Z
+loc:
+  Go:
+    code: 6072
+    comments: 5764
+    blanks: 479
+    files: 24
+  Sh:
+    code: 6
+    comments: 1
+    blanks: 4
+    files: 2
+  Markdown:
+    code: 0
+    comments: 407
+    blanks: 190
+    files: 4
+total:
+  code: 6105
+  comments: 6173
+  blanks: 674
+  files: 30
 ---
 date: "2026-08-24"
 repo:
