@@ -7,7 +7,7 @@ Bit is a modern Git CLI
 - **Latest release**: `v1.1.2` (2021-07-05)
 - **Last commit**: 2023-02-21
 - **License**: Apache-2.0
-- **Stars**: 6102 · **Forks**: 106 · **Open issues**: 93 · **Contributors**: 18
+- **Stars**: 6101 · **Forks**: 106 · **Open issues**: 93 · **Contributors**: 18
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/bit> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T03:52:25Z._
+_Last regenerated: 2026-09-09T18:21:17Z._
