@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.2"
   latestRelease: "v1.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:52:19Z
+  collectedAt: 2026-09-09T18:21:12Z
 timeline:
   created: 2020-09-11
   lastCommit: 2023-02-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2021-07-05
   lastPrerelease: 
 popularity:
-  star: 6102
+  star: 6101
   watcher: 33
   fork: 106
   release: 55
@@ -84,7 +84,7 @@ total:
   commit: 322
 ---
 path: /home/runner/.x-repo/github.com/chriswalz/bit
-collectedAt: 2026-09-09T03:52:20Z
+collectedAt: 2026-09-09T18:21:13Z
 loc:
   Go:
     code: 6072
