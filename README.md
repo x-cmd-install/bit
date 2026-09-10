@@ -22,7 +22,21 @@ x install bit
 - **Latest**: `v1.1.2` (2021-07-05)
 - **Last commit**: 2023-02-21
 - **Assets in release**: 10
-- **Published**: 2021-07-05T18:02:40Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bit_1.1.2_checksums.txt](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_checksums.txt) | 857 B | `other` |
+| [bit_1.1.2_darwin_amd64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_darwin_amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [bit_1.1.2_darwin_arm64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_darwin_arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [bit_1.1.2_linux_386.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_linux_386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [bit_1.1.2_linux_amd64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [bit_1.1.2_linux_arm64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [bit_1.1.2_netbsd_386.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_netbsd_386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [bit_1.1.2_netbsd_amd64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_netbsd_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [bit_1.1.2_windows_386.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_windows_386.tar.gz) | 3.4 MiB | `native/win/x64` |
+| [bit_1.1.2_windows_amd64.tar.gz](https://github.com/chriswalz/bit/releases/download/v1.1.2/bit_1.1.2_windows_amd64.tar.gz) | 3.6 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -65,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for bit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bit.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/bit.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:51:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:01:57Z._
